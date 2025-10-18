@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Zach Leibman</h1>
 <h3 align="center">An undergraduate student from NYC to become a full stack developer</h3>
 
-- 🔭 I’m currently working on **My senior project**
+- 🔭 I’m currently working on **My senior project using Unsloth AI**
 
 - 🌱 I’m currently learning **Databases, Algorithm analysis, and a few game engines (unity/unreal)**
 
-- - 💬 Ask me about **java and python**
+- 💬 Ask me about **Java and Python**
 
 - 👨‍💻 All of my projects are available **here on my github**
 
-- 📫 How to reach me: **Zachleibman@yahoo.com** or on [linkedin]()
+- 📫 How to reach me: **Zachleibman@yahoo.com** or on [linkedin](www.linkedin.com/in/zach-leibman)
 
-- 📄 Know about my experiences: [here]()
+- 📄 Know about my experiences: [here](https://drive.google.com/file/d/1_j-epvuqc19KbviVRKPqPsP1nwE8USaW/view?usp=sharing)
 
 - ⚡ Fun fact: **I also study acting and art**
 
