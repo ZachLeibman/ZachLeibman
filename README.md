@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **My senior project using Unsloth AI**
 
-- 🌱 I’m currently learning **Databases, Algorithm analysis, and a few game engines (unity/unreal)**
+- 🌱 I’m currently learning **Databases, Algorithm Analysis, and a few game engines (Unity/Unreal)**
 
 - 💬 Ask me about **Java and Python**
 
