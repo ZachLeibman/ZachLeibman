@@ -23,7 +23,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
   <a href="https://www.kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/vector-logo/434986/kotlin" alt="kotlin" width="40" height="40"/> </a> 
-  <a href="https://www.vercel.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/svg/361653/vercel-logo" alt="kotlin" width="40" height="40"/> </a> 
+  <a href="https://www.vercel.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/361653/vercel-logo.svg" alt="Vercel" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
