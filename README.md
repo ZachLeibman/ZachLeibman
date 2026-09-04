@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Zach Leibman</h1>
 <h3 align="center">A full stack developer based in the New York City area</h3>
 
-- 🔭 I’m currently working on **My senior project using Unsloth AI**
+- 🔭 I’m currently working on **My startup BoomerangBoard and getting Certifications**
 
-- 🌱 I’m currently learning **Databases, Android development, and a few game engines (Unity/Unreal)**
+- 🌱 I’m currently learning **IT, Cybersecurity, and a few game engines (Unity/Unreal)**
 
 - 💬 Ask me about **Java, Python, and OO Programming**
 
